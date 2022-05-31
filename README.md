@@ -1,2 +1,2 @@
 # Cafe-Menu
-Learning Basic CSS by Building a Cafe Menu in freeCodeCamp.org
+Learning Basic CSS by building a café Menu in freeCodeCamp.org
